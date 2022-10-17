@@ -2,7 +2,7 @@
 title: "GIS_G10"
 ---
 
-Welcome to our GIS project website....hehe
+Welcome to our GIS project website....hehe...
 
 ![](images/NR_Viewshed.png)
 
